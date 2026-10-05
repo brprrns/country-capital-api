@@ -1,17 +1,11 @@
-# Logs
-logs/
-*.log
+# Build directory at repository root
+/build/
 
-# Python
-*.pyc
-__pycache__/
+# Environment files
+*.env
 
-# Environment variables
-.env
+# Test run logs
+/test-runs/logs/
 
-# Virtual environment
-.venv/
-
-# Temporary files
-temp/
-*.tmp
+# CSV files anywhere in the repository
+*.csv
