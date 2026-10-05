@@ -1,0 +1,22 @@
+## FEAPP-420: Add WhatsApp Notification Support
+
+### Summary
+
+Implemented WhatsApp notification support for the application.
+
+### Changes Made
+
+- Added a WhatsApp notification service.
+- Updated the notification module to support WhatsApp notifications.
+- Added the required configuration for the WhatsApp notification service.
+- Added tests covering the new WhatsApp notification functionality.
+
+### Testing
+
+- Added and executed unit tests for the WhatsApp notification service.
+- Verified that the existing notification functionality continues to work.
+- Verified the new configuration and notification flow.
+
+### Related Ticket
+
+FEAPP-420
